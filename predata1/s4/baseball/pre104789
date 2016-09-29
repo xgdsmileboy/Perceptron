@@ -1,0 +1,60 @@
+From/p :/wm hbrooks@uiatma.atmos.uiuc.edu/n (/wkz Harold_Brooks/n )/wky 
+Subject/n :/wm RBI/nt ,/wd RISP/nt ,/wd and/c SLG/nt 
+
+
+Off/p and/c on/p over/p the/rzt last/rzs several/rzs months/n ,/wd threads/n about/p RBIs/n and/c 
+related/vd topics/n have/vyou gotten/a me/rzv to/pba thinking/n about/p how/ry well/d we/rzt can/vyou 
+predict/v a/rzv player/nr1 's/c RBIs/n using/vi information/n about/p his/rr overall/a 
+performance/n and/c the/rzt number/n of/p runners/n in/p scoring/n position/n (/wkz RISP/nt )/wky 
+that/c he/rzt bats/n with/p ./wj In/p the/rzt Brock2/n model/nr1 ,/wd Bill_James/nr calculated/vd 
+predicted/vd RBIs_as_RBI/nt =/n .235/m */n (/wkz Total_Bases/ns )/wky +/wp Home/n Runs/n ./wj This/r 
+completely/d ignores/v the/rzt context/n ,/wd which/rzs was/vshi all/a that/c Brock2/n 
+could/vyou do/vyou ,/wd since/p context/n was/vshi unknown/a to/pba it./rzt So/cc I/rzt thought/v I'd/n 
+take/v that/c idea/n as/p a/rzv starting/v point/n and/c look/v how/ry good/a a/rzv fit/v to/pba 
+the/rzt data/n you/rzt get/v by/p comparing/vd (/wkz RBI/nt -/wp Home/n Runs/n )/wky to/pba SLG/nt */n RISP/nt ./wj 
+
+
+I've/n started/v with/p team/n data/n ,/wd using/vi data/n from/p the/rzt Elias/nr 's/c that/c 
+I've/n picked/v up/pbei over/p the/rzt years/n when/ry a/rzv )/wky I/rzt could/vyou afford/v them/rzt and/c 
+b/o )/wky I/rzt could/vyou stomach/n the/rzt thought/v of/p increasing/a Elias/nr 's/c profits/n ./wj 
+That/c gave/v me/rzv the/rzt years/n 1984/m -/wp 1986/m ,/wd 1988/m ,/wd and/c 1990/m ./wj (/wkz I/rzt don't/v 
+have/vyou team/n RBIs/n for/p '87/m or/c I/rzt could/vyou add/v that/c year./n )/wky If/c you/rzt 
+run/v a/rzv simple/a least/rzs squares/n fit/v to/pba the/rzt data/n you/rzt get/v 
+
+
+(/wkz RBI/nt -/wp Home/n Runs/n )/wky =/n 0.81/m */n SLG/nt */n RISP/nt ./wj 
+
+
+The/rzt correlation/n between/p the/rzt LHS/nt and/c the/rzt RHS/nt is/vshi 0.86/m ,/wd which/rzs is/vshi 
+significant/a at/p a/rzv ridiculously/v high/a level/n ./wj So/cc ,/wd I/rzt feel/v like/p the/rzt 
+fit/v is/vshi good/a at/p the/rzt team/n level/n ./wj I've/n no/rzt started/v to/pba move/v on/p to/pba 
+the/rzt player/nr1 level/n and/c have/vyou looked/v at/p 4/m players/n (/wkz Will/vyou Clark/nz ,/wd 
+Ozzie_Smith/nr ,/wd Joe_Carter/nr ,/wd and/c Don_Mattingly/nr )/wky ./wj I/rzt hope/n to/pba 
+add/v quite/d a/rzv few/rzs more/cc during/p my/rr copious/n free/a time/n this/r year./n 
+
+
+It/rzt doesn't/n do/vyou too/cc badly/d ,/wd except/c the/rzt equation/n underpredicts/n the/rzt 
+low/a HR/nt hitter/n (/wkz Smith/nz )/wky ,/wd which/rzs may/vyou be/vshi a/rzv fault/n of/p the/rzt model/nr1 or/c it/rzt 
+could/vyou just/d be/vshi Ozzie/n ./wj The/rzt results/n :/wm 
+
+
+RBI/nt -/wp HR/nt 
+Years/n Actual/a Predicted/vd 
+Carter/nz (/wkz 84/m -/wp 88,90/m )/wky 400/m 402.6/m 
+Clark/nz (/wkz 87,88,90,92/m )/wky 269/m 269.6/m 
+Matt'ly/n (/wkz 84/m -/wp 88,90/m )/wky 471/m 460.8/m 
+Smith/nz (/wkz 84/m -/wp 88,90/m )/wky 317/m 280.6/m 
+
+
+I/rzt think/v we/rzt can/vyou make/v a/rzv case/n (/wkz and/c I/rzt hope/n to/pba make/v it/rzt stronger/a )/wky that/c 
+RBIs/n can/vyou be/vshi predicted/vd simply/d from/p knowing/vi how/ry a/rzv player/nr1 slugs/n overall/a 
+and/c how/ry many/rzs men/n are/vshi in/p scoring/n position/n when/ry he/rzt comes/v up/pbei ./wj 
+
+
+More/cc later/a ,/wd 
+Harold/nz 
+-/wp -/wp 
+Harold_Brooks/nr hbrooks@uiatma.atmos.uiuc.edu/n 
+National_Severe_Storms_Laboratory/nt (/wkz Norman/nz ,/wd OK/n )/wky 
+"/w I/rzt used/vd to/pba work/n for/p a/rzv brewery/n ,/wd too/cc ,/wd but/c I/rzt didn't/v drink/n on/p the/rzt job/n ./wj "/w 
+-/wp P._Bavasi_on_Dal_Maxvill/nt 's/c view/n that/c Florida/nz can/vyou win/v the/rzt NL_East/nt in/p '93/m 

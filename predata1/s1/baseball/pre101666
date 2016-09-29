@@ -1,0 +1,185 @@
+Subject/n :/wm Re/p :/wm Eck/n vs/n Rickey/nr (/wkz was/vshi Re/p :/wm Rickey/nr 's/c whining/vi again/d )/wky 
+From/p :/wm smith@ms.uky.edu/n (/wkz Brian_Smith/nr )/wky 
+
+
+In/p article/n </n 6998@blue.cis.pitt.edu/n >/wm genetic/a +/wp @pitt.edu/n (/wkz David_M._Tate/nr )/wky writes/v :/wm 
+>/wm I've/n read/v all/a of/p the/rzt followups/n to/pba this/r ,/wd but/c I/rzt thought/v I'd/n go/v back/pbei to/pba the/rzt 
+>/wm original/a article/n to/pba make/v specific/a comments/n about/p the/rzt method/n :/wm 
+>/wm 
+>/wm 
+>/wm jao@megatest.com/n (/wkz John_Oswalt/nr )/wky said/v :/wm 
+>/wm >/wm 
+>/wm >/wm He/rzt has/vyou obtained/vd the/rzt play/n by/p play/n records/n ,/wd in/p computer/n readable/n 
+>/wm >/wm form/n ,/wd for/p every/rzv major/a league/n baseball/n game/n for/p the/rzt past/n several/rzs years/n ./wj 
+>/wm >/wm He/rzt devised/vd an/rzv algorithm/n which/rzs I/rzt call/v "/w sum/n -/wp over/p -/wp situations/n "/w ,/wd and/c wrote/v 
+>/wm >/wm a/rzv computer/n program/n to/pba calculate/v every/rzv major/a league/n players/n contribution/n 
+>/wm >/wm using/vi it./rzt It/rzt works/n like/p this/r :/wm 
+>/wm >/wm 
+>/wm >/wm Look/v at/p every/rzv "/w situation/n "/w in/p every/rzv game/n in/p a/rzv baseball/n season/n ./wj A/rzv 
+>/wm >/wm situation/n is/vshi determined/vd by/p inning/n ,/wd score/n ,/wd where/ry the/rzt baserunners/n are/vshi ,/wd 
+>/wm >/wm and/c how/ry many/rzs out[out]/pbei there/rzs are/vshi ./wj For/p each/r situation/n ,/wd count/n how/ry many/rzs 
+>/wm >/wm times/n the/rzt team/n eventually/d won/v the/rzt game/n that/c the/rzt situation/n occured/n in/p ,/wd 
+>/wm >/wm and/c divide/v by/p the/rzt number/n of/p times/n the/rzt situation/n came/v up/pbei ,/wd to/pba come/v up/pbei with/p 
+>/wm >/wm a/rzv "/w value/n "/w for/p that/c situation/n ./wj 
+>/wm 
+>/wm This/r was/vshi first/m done/vd by/p George_Lindsey/nr in/p the/rzt late/a '50s/n //wp early/a '60s/n ,/wd and/c 
+>/wm reported/vd in/p 
+>/wm 
+>/wm Article/n :/wm An/rzv Investigation_of_Strategies_in_Baseball/nt 
+>/wm Author/n :/wm George_R._Lindsey/nr 
+>/wm Journal/n :/wm Operations_Research/nt 
+>/wm Issue/n :/wm Volume/n 11/m #/n 4/m ,/wd July/t -/wp August/t 1963/m ,/wd pp./a 477/m -/wp 501/m 
+>/wm 
+>/wm Later/a ,/wd Pete_Palmer/nr did/vyou the/rzt same/rzs thing/n using/vi simulated/a seasons/n to/pba generate/v 
+>/wm a/rzv larger/a set/vd of/p data/n to/pba avoid/v the/rzt kind/n of/p small/a -/wp sample/nz anomalies/n that/c other/rzs 
+>/wm people/n have/vyou worried/a about/p ./wj He/rzt reported/vd this/r in/p _The_Hidden_Game_of_Baseball_/n 
+>/wm (/wkz with/p John_Thorn/nr )/wky ./wj Gary_Skoog/nr modified/vd the/rzt method/n a/rzv bit/n and/c did/vyou some/rzv work/n 
+>/wm on/p what/rzs he/rzt called/vd a/rzv "/w Value/n Added/v "/w measure/n based/vd on/p these/r situational/n values/n ./wj 
+>/wm His/rr were/vshi based/vd directly/d on/p marginal/a runs/n ,/wd though/c ,/wd not/d on/p win/v probabilities/n ./wj 
+>/wm These/r results/n ,/wd as/p applied/vd to/pba the/rzt 198/m ?/ww season/n ,/wd were/vshi reported/vd in/p one/m of/p the/rzt 
+>/wm Bill_James_Baseball_Abstract/nt books/n (/wkz 1987/m ?/ww Help/v me/rzv out/pbei here/d ,/wd somebody../n ./wj )/wky 
+>/wm 
+>/wm >/wm For/p example/n ,/wd a/rzv situation/n might/vyou be/vshi inning/n 3/m ,/wd score/n 2/m -/wp 0/m ,/wd runner/a on/p second/m 
+>/wm >/wm and/c no/rzt out[out]/pbei ./wj There/rzs were/vshi 4212/m regular/a season/n major/a league/n games/n last/rzs 
+>/wm >/wm year./n (/wkz With/p the/rzt Rockies/n and/c marlin[marlin]/nz ,/wd there/rzs will/vyou be/vshi more/cc this/r year./n )/wky 
+>/wm >/wm Say/v this/r situation/n came/v up/pbei in/p 100/m of/p those/r ,/wd and/c the/rzt team/n ahead/d won/v 
+>/wm >/wm 75/m of/p them/rzt ./wj Then/d the/rzt value/n of/p this/r situation/n is/vshi 0.75/m ./wj 
+>/wm 
+>/wm [/n Description/n of/p method/n :/wm look/v at/p change/n in/p win/v probability/n based/vd on/p the/rzt at/p bat/n 
+>/wm plus/p any/rzv baserunning/n ,/wd and/c credit/n //wp debit/a the/rzt player/nr1 by/p that/c amount/n each/r time/n 
+>/wm he/rzt gets/v a/rzv plate/n appearance/n ./wj ]/n 
+>/wm 
+>/wm >/wm Now/d ,/wd for/p each/r player/nr1 ,/wd sum/n up/pbei all/a his/rr at/p -/wp bat/n and/c base/n -/wp running/vi values/n 
+>/wm >/wm for/p the/rzt season/n to/pba obtain/v an/rzv overall/a value/n for/p that/c player/nr1 ./wj Obviously/d 
+>/wm >/wm the/rzt sum/n of/p all/a players'/n values/n for/p each/r game/n ,/wd and/c for/p the/rzt season/n as/p a/rzv 
+>/wm >/wm whole/a ,/wd will/vyou be/vshi 0/m ./wj 
+>/wm 
+>/wm That's/v only/d because/c you/rzt always/d credit/n +/wp x/n to/pba the/rzt batter/n and/c -/wp x/n to/pba the/rzt pitcher/n ;/n 
+>/wm there's/v no/rzt validation/a involved/vd ./wj 
+>/wm 
+>/wm OK/n ,/wd there's/v a/rzv very/cc big/a problem/n here/d that/c nobody/r has/vyou yet/d commented/v on/p :/wm you're/n 
+>/wm adding/vi */n probabilities/n */n ,/wd and/c probabilities/n don't/v add/v ./wj Runs/n you/rzt can/vyou add/v ;/n the/rzt 
+>/wm total/a team/n runs/n breaks/n down/pbei into/p how/ry many/rzs runs/n Joe/nz contributed/v plus/p how/ry many/rzs 
+>/wm runs/n Fred/nz contributed/v ,/wd etc./n But/c probabilities/n don't/v work/n that/c way/n ./wj If/c Bob/nr 
+>/wm increases/a his/rr team/n 's/c chance/n of/p winning/a by/p 1%/m in/p each/r of/p 400/m PAs/u ,/wd that/c does/vyou 
+>/wm not/d mean/v that/c Bob/nr increased/a his/rr team/n 's/c chance/n of/p winning/a by/p 400%/m ./wj In/p fact/n ,/wd 
+>/wm it/rzt doesn't/n mean/v */n anything/r */n ,/wd because/c the/rzt units/n are/vshi screwy/n ./wj 
+
+
+I/rzt agree/v and/c disagree/v ./wj John/nz is/vshi saying/vi that/c the/rzt batters[batter]/n efforts/n will/vyou result/n 
+in/p 4/m more/cc wins/v then/d losses/n ./wj While/c you/rzt are/vshi probably/d correct/a that/c 400%/m 
+does/vyou not/d mean/v 4/m more/cc wins/v then/d losses/n ,/wd it/rzt means/n something/r ./wj I/rzt would/vyou 
+rather/d have/vyou a/rzv player/nr1 who/ry increased/a my/rr teams/n chances/n of/p winning/a by/p 1%/m in/p 
+each/r of/p 400/m PAs/u then/d I/rzt would/vyou a/rzv player/nr1 who/ry increased/a my/rr chances/n of/p winning/a 
+by/p .5%/m in/p each/r of/p 400/m PAs/u ./wj Thus/d ,/wd there/rzs appears/v to/pba me/rzv to/pba be/vshi an/rzv obvious/a 
+positive/a association/n between/p John/nz 's/c statistic/n and/c winning/a games/n ./wj Thus/d ,/wd 
+before/p you/rzt disregard/n this/r stat/n ,/wd it/rzt appears/v to/pba me/rzv that/c further/a study/n must/vyou 
+go/v into/p what/rzs sort/n of/p relationship/n there/rzs is/vshi ./wj 
+
+
+>/wm Consider/v an/rzv example/n :/wm Bob/nr hits/a a/rzv 2/m -/wp out/pbei solo/n HR/nt in/p the/rzt bottom/n of/p the/rzt first/m ;/n 
+>/wm about/p .12/m on/p your/rr scale/n ./wj He/rzt does/vyou the/rzt same/rzs thing/n again/d in/p the/rzt fourth/m ,/wd with/p 
+>/wm the/rzt score/n tied/vd ,/wd for/p another/r .14/m ./wj And/c again/d ,/wd in/p the/rzt seventh/m ,/wd with/p the/rzt score/n 
+>/wm tied/vd ,/wd for/p another/r .22/m ./wj And/c ,/wd finally/d ,/wd in/p the/rzt ninth/m to/pba win/v the/rzt game/n by/p a/rzv score/n 
+>/wm of/p 7/m -/wp 6/m ,/wd for/p a/rzv value/n of/p 0.5/m ./wj Bob/nr hit/v 4/m solo/n HR/nt in/p 4/m plate/n appearances/n ,/wd and/c 
+>/wm was/vshi credited/vd by/p your/rr method/n with/p .12/m +/wp .14/m +/wp .22/m +/wp .5/m =/n .98/m ./wj But/c what/rzs does/vyou 
+>/wm that/c mean/v ?/ww Was/vshi Bob/nr 98%/m responsible/a for/p the/rzt win/v ?/ww Certainly/d not/d ;/n the/rzt defense/n 
+>/wm is/vshi */n always/d */n 50%/m responsible/a (/wkz if/c you/rzt include/v pitching/n in/p that/c )/wky ,/wd and/c Bob/nr wasn't/v 
+>/wm pitching/n ./wj In/p fact/n ,/wd Bob/nr was/vshi only/d 4/m //wp 7/m of/p the/rzt offense/n (/wkz which/rzs is/vshi a/rzv lot/n ,/wd but/c not/d 
+>/wm even/d close/d to/pba 100%/m )/wky ./wj Furthermore/d ,/wd what/rzs about/p the/rzt other/rzs 3/m team/n runs/n ?/ww Say/v 
+>/wm they/rzt all/a came/v on/p solo/n HR_by_Fred/nt ;/n then/d Fred/nz was/vshi hitting/vi HR/nt to/pba tie/n up/pbei the/rzt game/n ,/wd 
+>/wm which/rzs are/vshi just/d as/p valuable/a as/p HR/nt to/pba take/v the/rzt lead/n (/wkz see/v Lindsey/nr )/wky ,/wd and/c Fred/nz will/vyou 
+>/wm himself/rzv have/vyou accrued/a a/rzv good/a .4/m rating/n or/c so/cc ./wj So/cc Fred/nz and/c Bob/nr combined/a have/vyou 
+>/wm amassed/n 138%/m of/p a/rzv win/v IN/p ONE/m GAME/n ./wj There's/v clearly/d a/rzv problem/n here/d ./wj 
+
+
+The/rzt only/d problem/n here/d is/vshi an/rzv insistance/n that/c these/r number/n mean/v exactly/d 
+how/ry many/rzs wins/v the/rzt team/n has/vyou ./wj First/m ,/wd we/rzt are/vshi using/vi averages/n over/p many/rzs 
+seasons/n and/c applying/v them/rzt to/pba one/m game/n ./wj Second/m ,/wd remember/v some/rzv players/n 
+performance/n take/v away/pbei from/p the/rzt chance/n of/p you/rzt winning/a ./wj That/c is/vshi a/rzv 
+player/nr1 who/ry gets/v an/rzv out/pbei gets/v a/rzv "/w negative/a probability/n "/w in/p most/cc cases/n ./wj 
+Thus/d ,/wd I'm/n not/d sure/a in/p any/rzv given/vd game/n when/ry you/rzt add/v up/pbei all/a the/rzt numbers/n 
+for/p a/rzv team/n who/ry won/v that/c they/rzt will/vyou add/v up/pbei to/pba 1/m in/p that/c game/n ./wj Sometimes/r ,/wd 
+they/rzt will/vyou add/v up/pbei to/pba more/cc then/d one/m sometime/d ,/wd less/rzs than/p one/m ./wj Also/d ,/wd 
+the/rzt pitchers'/n bad/a performances/n (/wkz giving/vi up/pbei 6/m runs/n )/wky may/vyou have/vyou given/vd 
+them/rzt a/rzv large/a negative/a percentage/n for/p that/c game/n ./wj Also/d ,/wd any/rzv batter/n that/c 
+pulled/v an/rzv 0/m -/wp 4/m night/n would/vyou give/v large/a negatives[negative]/a ./wj 
+
+
+
+
+
+
+>/wm >/wm Greg/nz thinking/n about/p the/rzt right/a things/n ,/wd but/c his/rr intuition/n is/vshi off/p the/rzt 
+>/wm >/wm mark/n ./wj Closers/n are/vshi enormously/d important/a ./wj The/rzt total/a number/n of/p runs/n 
+>/wm >/wm value/n is/vshi outweighed/v by/p when/ry they/rzt come/v ,/wd or/c are/vshi prevented/vd from/p comming/n ./wj 
+>/wm >/wm The/rzt doubling/vi which/rzs Greg/nz allows/v is/vshi not/d enough/a ./wj 
+>/wm 
+>/wm In/p another/r article/n ,/wd I/rzt proposed/n a/rzv test/n of/p this/r ./wj We/rzt can/vyou predict/v a/rzv team/n 's/c 
+>/wm won/v //wp lost/vd record/n quite/d accurately/n by/p looking/vi at/p how/ry many/rzs runs/n */n total/a */n they/rzt 
+>/wm score/n and/c allow/v ,/wd without/p regard/n to/pba when/ry those/r runs/n score/n in/p the/rzt game/n ./wj If/c 
+>/wm late/a runs/n are/vshi really/d more/cc important/a than/p early/a runs/n ,/wd then/d looking/vi only/d at/p 
+>/wm late/a runs/n should/vyou lead/n to/pba a/rzv */n better/a */n predictor/n ,/wd right/a ?/ww 
+
+
+No/rzt ,/wd but/c really/d only/d because/c you/rzt have/vyou a/rzv smaller/a sample/nz size/n ./wj I/rzt would/vyou 
+think/v however/d ,/wd that/c the/rzt number/n of/p runs/n you/rzt score/n in/p the/rzt first/m inning/n 
+would/vyou be/vshi just/d as/p good/a as/p a/rzv prediction/vd as/p how/ry many/rzs runs/n you/rzt score/n 
+in/p the/rzt last/rzs inning/n ./wj And/c ,/wd realize/v something/r else/d a/rzv closer/a usually/d 
+comes/v in/p in/p a/rzv close/d situation/n ,/wd not/d a/rzv blow/n out/pbei ./wj It/rzt is/vshi hard/a to/pba argue/v 
+that/c any/rzv runs/n that/c a/rzv closer/a gives/v up/pbei in/p a/rzv game/n have/vyou equal/a importance/n 
+to/pba those/r given/vd up/pbei in/p the/rzt first/m inning/n ./wj Look/v ,/wd a/rzv closer/a giving/vi up/pbei runs/n 
+often/d means/n a/rzv team/n will/vyou lose/v many/rzs games/n ./wj On/p ,/wd the/rzt other/rzs hand/n a/rzv starter/n 
+who/ry gives/v up/pbei runs/n often/d still/d leaves/n his/rr team/n a/rzv chance/n to/pba win/v ./wj The/rzt 
+offence[offense]/n has/vyou many/rzs more/cc out[out]/pbei to/pba do/vyou something/r about/p ./wj But/c ,/wd I/rzt am/vshi not/d 
+saying/vi all/a late/a inning/n situations/n are/vshi equally/d important/a either/d ./wj If/c 
+I/rzt am/vshi down/pbei 8/m runs/n in/p the/rzt ninth/m ,/wd it/rzt really/d does/vyou not/d matter/n how/ry many/rzs 
+runs/n my/rr pitcher/n gives/v up/pbei in/p the/rzt ninth/m ./wj 
+
+
+>/wm Here's/v another/r thought/v experiment/n :/wm apply/v this/r method/n to/pba basketball/n ./wj What/rzs 
+>/wm you/rzt find/v is/vshi that/c points/n scored/v in/p the/rzt first/m */n half/n */n of/p the/rzt game/n have/vyou almost/d 
+>/wm exactly/d no/rzt value/n ,/wd because/c no/rzt lead/n is/vshi safe/a with/p an/rzv entire/a half/n yet/d to/pba play/n ./wj 
+>/wm Furthermore/d ,/wd the/rzt sub/n in/p off/p the/rzt bench/n who/ry sinks[sink]/n the/rzt winning/a free/a throws/rzs with/p 
+>/wm no/rzt time/n on/p the/rzt clock/n gets/v a/rzv +/wp 1.0/m for/p the/rzt game/n ,/wd while/c the/rzt star/nr1 forward/d who/ry 
+>/wm scored/v 27/m points/n in/p the/rzt first/m half/n before/p spraining/n his/rr ankle/n gets/v a/rzv zero/m ./wj 
+>/wm 
+>/wm Does/vyou this/r make/v sense/n ?/ww 
+
+
+
+
+No/rzt ,/wd but/c why/ry would/vyou you/rzt assume/v that/c the/rzt teams/n probability/n of/p winning/a would/vyou 
+be/vshi 0/m before/p the/rzt possesion/n in/p which/rzs the/rzt free/a throws/rzs were/vshi made/vd ./wj Look/v ,/wd 
+if/c you/rzt are/vshi down/pbei 1/m point/n with/p 5/m seconds/n left/vd ,/wd there/rzs is/vshi a/rzv fairly/d high/a 
+probability/n that/c you/rzt will/vyou win/v the/rzt game/n if/c you/rzt are/vshi in/p possesion/n of/p the/rzt 
+ball/n ./wj And/c ,/wd do/vyou not/d forget/v that/c somebody/r elses/n missed/v shots/n ,/wd turnovers[turnover]/n ,/wd 
+foul[foul]/vd ,/wd bad/a defense/n ,/wd etc./n caused/vd a/rzv "/w negative/a chance/n "/w that/c the/rzt team/n 
+would/vyou win/v ./wj 
+
+From/p reading/n all/a of/p the/rzt discussion/n on/p this/r statistic/n ,/wd I/rzt feel/v that/c those/r 
+who/ry critisize/n it/rzt to/pba a/rzv certain/a extent/n are/vshi doing/vi so/cc out/pbei of/p an/rzv agenda/n ./wj 
+At/p first/m look/v this/r statistic/n valadates/n clutchness/n ./wj But/c ,/wd it/rzt really/d 
+does/vyou not/d ./wj Cluthness/n revolves[revolve]/n around/p the/rzt idea/n that/c certain/a players/n 
+in/p crucial/a situation/n elevate/n their/rr performance/n and/c others/ry performance/n 
+goes/v down/pbei ./wj I've/n never/d seen/vd convincing/vd proof/n that/c this/r really/d happens/v ./wj 
+So/cc ,/wd if/c you/rzt assume/v there/rzs is/vshi no/rzt clutchness/n ,/wd then/d that/c means/n that/c except/c 
+for/p a/rzv lot/n of/p noice/n ,/wd this/r statistic/n has/vyou a/rzv positive/a association/n to/pba 
+player/nr1 performance/n ./wj There/rzs is/vshi a/rzv way/n to/pba get/v rid/vd of/p the/rzt noice/n if/c you/rzt 
+do/vyou not/d believe/v in/p clutchness/n ./wj Certainly/d ,/wd we/rzt could/vyou find/v out/pbei what/rzs 
+the/rzt average/a value/n of/p a/rzv home/n run/v is/vshi for/p example/n ./wj We/rzt may/vyou find/v for/p 
+instance/n ,/wd that/c a/rzv home/n run/v increases/a your/rr chance/n of/p winning/a by/p 15%/m 
+on/p average/a while/c a/rzv strikeout/n decreases/v your/rr chance/n of/p winning/a by/p 5%/m ./wj 
+I/rzt bet/n if/c this/r were/vshi done/vd we/rzt would/vyou find/v that/c this/r statistic/n was/vshi just/d 
+as/p good/a as/p other/rzs statistics/n we/rzt have/vyou for/p predicting/vi wins/v and/c losses/n ./wj 
+
+
+How/ry do/vyou we/rzt evaluate/v relief/n pitchers/n ?/ww Say_John/nr and/c Sam/nz have/vyou the/rzt 
+exact/a same/rzs pitching/n statistics/n (/wkz runs/n ,/wd earned/v runs/n ,/wd K/vf 's/c ,/wd BB/nt 's/c ,/wd 
+etc./n )/wky Both/ry had/vyou exceptional/n numbers/n ./wj John/nz ,/wd however/d only/d pitched/v 
+in/p closer/a situations/n ,/wd while/c Sam/nz was/vshi a/rzv Mop/n up/pbei man/n ./wj Who/ry was/vshi more/cc 
+valuble/n to/pba their/rr team/n ?/ww Probably/d John/nz ./wj Who/ry was/vshi the/rzt better/a 
+pitcher/n ?/ww They/rzt were/vshi probably/d about/p the/rzt same/rzs ./wj 
+
+
+Brian_Smith/nr 

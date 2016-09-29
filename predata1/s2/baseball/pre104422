@@ -1,0 +1,138 @@
+From/p :/wm steph@pegasus.cs.uiuc.edu/n (/wkz Dale_Stephenson/nr )/wky 
+Subject/n :/wm Hits/a Stolen/vd -/wp -/wp Second_Base/ns 1992/m 
+
+
+Disclaimer/n -/wp -/wp This/r is/vshi for/p fun/n ./wj 
+
+
+In/p my/rr computerized/n baseball/n game/n ,/wd I/rzt keep/v track/n of/p a/rzv category/n called/vd 
+"/w stolen/vd hits/a "/w ,/wd defined/vd as/p a/rzv play/n made/vd that/c "/w an/rzv average/a fielder/n would/vyou not/d 
+make/v with/p average/a effort/n ./wj "/w Using/vi the/rzt 1992/m Defensive/a Averages/n posted/vd 
+by/p Sherri_Nichols/nr (/wkz Thanks_Sherri/nr !/wt )/wky ,/wd I've/n figured/v out/pbei some/rzv defensive/a stats/n 
+for/p the/rzt second/m basemen[baseman]/a ./wj Hits/a Stolen/vd have/vyou been/vshi redefined/n as/p "/w Plays_Kurt/nr 
+Stillwell/nr would/vyou not/d have/vyou made/vd ./wj "/w 
+
+
+OK/n ,/wd I/rzt realize/v that's/v unfair/a ./wj Kurt/nr 's/c probably/d the/rzt victim/n of/p pitching/n staff/n ,/wd 
+fluke/n shots/n ,/wd and/c a/rzv monster/n park/n factor/n ./wj But/c let's/v put/v it/rzt this/r way/n :/wm If/c we/rzt 
+replaced/vd every/rzv second/m baseman/a in/p the/rzt NL/nt with/p someone/r with/p Kurt/nr 's/c 57.6%/m out/pbei 
+making/vi ability/n ,/wd how/ry many/rzs extra/a hits/a would/vyou go/v by/p ?/ww 
+
+
+To/pba try/v and/c correlate/v it/rzt to/pba reality/n a/rzv little/a more/cc ,/wd I've/n calculated/vd Net/n 
+Hits/a Stolen/vd ,/wd based/vd on/p the/rzt number/n of/p out[out]/pbei made/vd compared/vd to/pba what/rzs a/rzv league/n 
+average/a fielder/n would/vyou make/v ./wj By/p the/rzt same/rzs method/n I've/n calculated/vd Net_Double/ns 
+Plays/n ,/wd and/c Net_Extra_Bases/ns (/wkz doubles/v and/c triples[triple]/a let/v by/p )/wky ./wj 
+
+
+Finally/d ,/wd I/rzt throw/v all/a this/r into/p a/rzv a/rzv formula/n I/rzt call/v Defensive/a Contribution/n ,/wd or/c 
+DCON/nt :/wm -/wp >/wm ./wj Basically/d ,/wd it/rzt represents/v the/rzt defensive/a contribution/n of/p a/rzv player/nr1 ./wj 
+I/rzt add/v this/r number/n to/pba OPS/n to/pba get/v DOPS/nt (/wkz Defense/n +/wp Onbase_Plus_Slug/nt )/wky ,/wd which/rzs 
+should/vyou represent/v the/rzt player/nr1 's/c total/a contribution/n to/pba the/rzt team/n ./wj So/cc don't/v 
+take/v it/rzt too/cc seriously/a ./wj The/rzt formula/n for/p DCON/nt appears/v at/p the/rzt end/n of/p this/r 
+article/n ./wj 
+
+
+The/rzt short/a version/n -/wp -/wp definition/n of/p terms/n 
+HS/nt -/wp -/wp Hits/a Stolen/vd -/wp -/wp Extra/a out[out]/pbei compared/vd to/pba Kurt_Stillwell/nr 
+NHS/nt -/wp -/wp Net_Hits_Stolen/ns -/wp -/wp Extra/a out[out]/pbei compared/vd to/pba average/a fielder/n 
+NDP/nt -/wp -/wp Net_Double_Plays/ns -/wp -/wp Extra/a double/a plays/n turned/v compared/vd to/pba avg/n fielder/n 
+NEB/n -/wp -/wp Net_Extra_Bases/ns -/wp -/wp Extra/a bases/n prevented/vd compared/vd to/pba avg/n ./wj fielder/n 
+DCON/nt -/wp -/wp Defensive/a Contribution/n -/wp -/wp bases/n and/c hits/a prevented/vd ,/wd as/p a/rzv rate/n ./wj 
+DOPS/nt -/wp -/wp DCON/nt +/wp OPS/n -/wp -/wp quick/a &/n dirty/a measure/n of/p player/nr1 's/c total/a contribution/n ./wj 
+
+
+National_League/nt 
+
+
+name/n HS_NHS_NDP_NEB_DCON_DOPS/nt 
+Alicea/nr ,/wd L./n 50/m 21/m 2/m -/wp 1/m .160/m .865/m 
+Sandberg/nr ,/wd R./n 108/m 42/m 1/m 1/m .134/m 1.015/m 
+Thompson/nz ,/wd R./n 65/m 20/m 5/m -/wp 1/m .104/m .852/m 
+Lind/nr ,/wd J./n 66/m 8/m -/wp 2/m 1/m .027/m .571/m 
+Doran/n ,/wd B./n 31/m -/wp 1/m 4/m 0/m .014/m .705/m 
+DeShields/n ,/wd D./n 51/m 1/m -/wp 2/m 1/m -/wp .002/m .755/m 
+Harris/nz ,/wd L./n 25/m -/wp 4/m 0/m 1/m -/wp .019/m .602/m 
+Lemke/nr ,/wd M./n 43/m -/wp 1/m -/wp 5/m -/wp 5/m -/wp .038/m .573/m 
+Morandini/n ,/wd M./n 37/m -/wp 9/m -/wp 6/m 0/m -/wp .069/m .580/m 
+Randolph/n ,/wd W./n 13/m -/wp 16/m 3/m -/wp 1/m -/wp .088/m .582/m 
+Biggio/n ,/wd C./n 34/m -/wp 26/m -/wp 4/m 0/m -/wp .091/m .656/m 
+Stillwell/nr ,/wd K./n 0/m -/wp 43/m -/wp 3/m -/wp 1/m -/wp .236/m .336/m 
+
+
+Ordered_by_DOPS/nt 
+
+
+1.015/m Sandberg/nr 
+.865/m Alicea/nr 
+.852/m Thompson/nz 
+.755/m DeShields/n 
+.705/m Doran/n 
+.678/m */n NL/n Average/a */n 
+.656/m Biggio/n 
+.602/m Harris/nz 
+.582/m Randolph/n 
+.580/m Morandini/n 
+.573/m Lemke/nr 
+.571/m Lind/nr 
+.336/m Stillwell/nr 
+
+
+American_League/nt 
+-/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp 
+
+
+name/n HS_NHS_NDP_NEB_DCON_DOPS/nt 
+Fletcher/nz ,/wd S./n 59/m 18/m 5/m 1/m .116/m .811/m 
+Reed/n ,/wd J./n 83/m 17/m 3/m 1/m .071/m .708/m 
+Ripken/n ,/wd B./n 56/m 9/m -/wp 1/m -/wp 1/m .044/m .631/m 
+Baerga/n ,/wd C./n 67/m 0/m 10/m 0/m .029/m .838/m 
+Blankenship/nr ,/wd L./n 34/m 2/m 2/m 1/m .023/m .757/m 
+Miller/n ,/wd K./n 34/m -/wp 4/m 1/m -/wp 1/m -/wp .016/m .725/m 
+Alomar/n ,/wd R./n 62/m 4/m -/wp 9/m -/wp 2/m -/wp .020/m .812/m 
+Knoblauch/n ,/wd C./n 50/m -/wp 13/m 7/m -/wp 3/m -/wp .024/m .718/m 
+Bordick/n ,/wd M./n 37/m -/wp 4/m -/wp 2/m -/wp 1/m -/wp .025/m .704/m 
+Kelly/nr ,/wd P./n 42/m -/wp 1/m -/wp 5/m -/wp 1/m -/wp .039/m .636/m 
+Whitaker/nr ,/wd L./n 40/m -/wp 8/m -/wp 1/m -/wp 2/m -/wp .041/m .806/m 
+Reynolds/nz ,/wd H./n 47/m -/wp 6/m -/wp 5/m 1/m -/wp .043/m .603/m 
+Sax/n ,/wd S./n 56/m -/wp 6/m -/wp 9/m -/wp 1/m -/wp .052/m .555/m 
+Sojo/n ,/wd L./n 28/m -/wp 11/m -/wp 3/m 0/m -/wp .075/m .602/m 
+
+
+Order_by_DOPS/nt 
+
+
+.838/m Baerga/n 
+.812/m Alomar/n 
+.811/m Fletcher/nz 
+.806/m Whitaker/nr 
+.757/m Blankenship/nr 
+.725/m Miller/n 
+.718/m Knoblauch/n 
+.708/m Reed/n 
+.704/m Bordick/n 
+.691/m */n AL_Average/nt */n 
+.636/m Kelly/nr 
+.631/m Ripken/n 
+.603/m Reynolds/nz 
+.602/m Sojo/n 
+.555/m Sax/n 
+
+
+More/cc discussion/n -/wp -/wp 
+
+
+DCON/nt formula/n :/wm (/wkz (/wkz NHS/nt +/wp NDP/nt )/wky //wp PA/vi )/wky +/wp (/wkz (/wkz NHS/nt +/wp NDP/nt +/wp NEB/n )/wky //wp AB/a )/wky 
+Why/ry such/p a/rzv bizzare/n formula/n ?/ww Basically/d ,/wd it's/v designed/vd to/pba be/vshi added/v into/p the/rzt 
+OPS/n ,/wd with/p the/rzt idea/n that/c "/w a/rzv run/v prevented/vd is/vshi as/p important/a as/p a/rzv run/v scored/v "/w ./wj 
+The/rzt extra/a out[out]/pbei are/vshi factored[factor]/n into/p OBP/nt ,/wd while/c the/rzt extra/a bases/n removed/vd are/vshi 
+factored[factor]/n into/p SLG/nt ./wj That's/v why/ry I/rzt used/vd PA/vi and/c AB/a as/p the/rzt divisors[divisor]/n ./wj 
+
+
+For/p more/cc discussion/n see/v the/rzt post/n on/p Hits/a Stolen/vd -/wp -/wp First/m Base/n 1992/m 
+-/wp -/wp 
+Dale_J._Stephenson/nr |/w */n |/w (/wkz steph@cs.uiuc.edu/n )/wky |/w */n |/w Baseball/n fanatic/n 
+
+
+"/w It/rzt is/vshi considered/vd good/a to/pba look/v wise/a ,/wd especially/d when/ry not/d 
+overburdened/n with/p information/n "/w -/wp -/wp J._Golden_Kimball/nr 

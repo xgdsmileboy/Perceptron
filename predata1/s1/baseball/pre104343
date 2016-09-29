@@ -1,0 +1,514 @@
+From/p :/wm tedward@cs.cornell.edu/n (/wkz Edward/nz [/n Ted/nz ]/n Fischer/nr )/wky 
+Subject/n :/wm Old/a Predictions/vi to/pba laugh/n at../n ./wj 
+
+
+
+
+Oops/n !/wt I/rzt came/v across/p this/r file/n from/p last/rzs year./n Thought/v you/rzt might/vyou 
+enjoy/v some/rzv of/p these/r thoughts/n ./wj The/rzt predictions/vi were/vshi made/vd on/p the/rzt 
+date/n indicated/v ./wj They/rzt are/vshi largely/d out/pbei of/p order/n ./wj 
+
+
+-/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp 
+
+
+June/nz 11/m ,/wd 1992/m 
+tedward@cs.cornell.edu/n (/wkz ME/rzv !/wt )/wky 
+>/wm What/rzs have/vyou I/rzt done/vd ?/ww I/rzt computed/vd the/rzt "/w expected/vd winning/a percentage/n "/w for/p 
+>/wm each/r team/n from/p their/rr OBP/nt ,/wd total/a bases/n ,/wd and/c runs/n allowed/vd ./wj I/rzt use/n the/rzt 
+>/wm basic/a RC/nt formula/n and/c the/rzt pythagorean/n projection/n ./wj I/rzt then/d compare/v this/r 
+>/wm with/p their/rr actual/a winning/a percentage/n ./wj All/a stats/n through/p June/nz 7/m ./wj 
+>/wm 
+>/wm Team_OBP_TB_RA_W_L_XWP_Diff/ns 
+>/wm baltimore/n 0.351/m 768/m 199/m 33/m 21/m 0.647/m -/wp 36/m 
+>/wm boston/ns 0.334/m 580/m 176/m 26/m 25/m 0.548/m -/wp 38/m 
+>/wm toronto/nz 0.319/m 750/m 221/m 34/m 22/m 0.540/m 68/m 
+>/wm new/a york/nz 0.327/m 759/m 237/m 28/m 26/m 0.523/m -/wp 5/m 
+>/wm milwaukee/n 0.325/m 692/m 226/m 28/m 25/m 0.498/m 31/m 
+>/wm detroit/nz 0.328/m 782/m 285/m 24/m 31/m 0.448/m -/wp 11/m 
+>/wm cleveland/nz 0.316/m 688/m 274/m 22/m 34/m 0.386/m 7/m 
+
+
+>/wm minnesota/n 0.353/m 797/m 237/m 30/m 24/m 0.585/m -/wp 29/m 
+>/wm oakland/n 0.350/m 719/m 236/m 32/m 23/m 0.532/m 50/m 
+>/wm texas/nz 0.324/m 815/m 281/m 33/m 26/m 0.469/m 90/m 
+>/wm chicago/ns 0.325/m 601/m 212/m 25/m 27/m 0.459/m 22/m 
+>/wm california/ns 0.307/m 664/m 231/m 22/m 32/m 0.438/m -/wp 30/m 
+>/wm kansas/nz city/ns 0.310/m 656/m 239/m 22/m 32/m 0.420/m -/wp 13/m 
+>/wm seattle/nz 0.310/m 726/m 290/m 22/m 33/m 0.376/m 24/m 
+
+
+You/rzt all/a know/v how/ry things/n turned/v out/pbei ./wj The/rzt Orioles/n ,/wd Red_Sox/nt ,/wd and/c Yankees/nl 
+all/a disappeared/vd ./wj The/rzt jay[jay]/nz and/c Tigers[tiger]/n continued/v at/p essentially/d the/rzt 
+expected/vd pace/n ./wj The/rzt Brewers/n and/c Indians/nl cranked/n in/p the/rzt second/m half/n ./wj 
+
+
+The/rzt Rangers[ranger]/nz predictable[predictable]/v took/v a/rzv dive/n ./wj That/c shouldn't/n have/vyou surprised/n 
+anybody/r ./wj Meanwhile/d ,/wd as/p predicted/vd ,/wd the/rzt Mariners/n dropped/v behind/p the/rzt 
+Angels/n and/c Royals[royal]/a ./wj They/rzt clearly/d didn't/v deserve/v the/rzt 22/m -/wp 33/m record/n in/p 
+June/nz ./wj The/rzt White_Sox/nr and/c A/rzv 's/c up[up]/pbei their/rr game/n a/rzv bit/n ,/wd while/c the/rzt Twins/m 
+dropped/v off/p a/rzv little/a ./wj But/c for/p the/rzt most/cc part/n things/n were/vshi as/p expected/vd ./wj 
+
+
+Okay/o ,/wd so/cc there/rzs were/vshi a/rzv few/rzs blatant/a errors/n ./wj But/c for/p a/rzv predictive/n 
+calculation/n ,/wd I/rzt thought/v this/r did/vyou pretty/d well/d ./wj 
+-/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp 
+
+
+From/p CAVGEOE@YaleVM.YCC.Yale.Edu_Tue_Mar/ns 31/m 16/m :/wm 36/m :/wm 34/m 1992/m 
+>/wm 1/m ./wj The/rzt Braves/nz insert/v Kent_Mercker/nr into/p the/rzt starting/v rotation/n 
+>/wm sometime/d this/r year/n (/wkz 1992/m )/wky ./wj Bielecki/n is/vshi traded/v or/c released/vd ,/wd Lei/n -/wp 
+>/wm brandt/nz becomes/v the/rzt fifth/n starter/n ,/wd and/c the/rzt best/a bullpen/n in/p baseball/n 
+>/wm has/vyou Pena/nr ,/wd Berenguer/n ,/wd Stanton/n ,/wd Wohlers/n ,/wd Freeman/nz ,/wd and/c Pete_Smith/nr ,/wd who/ry 
+>/wm spot/n -/wp starts/v as/p well/d ./wj 
+
+
+Hm/n ./wj Pete_Smith/nr made/vd the/rzt rotation/n instead/d of/p Mercker/n ./wj And/c Bielecki/n 
+wasn't/v released/vd until/p the/rzt end/n of/p the/rzt year./n I/rzt won't/v comment/n on/p the/rzt 
+bullpen/n ./wj (/wkz Jeff_Reardon/nr ?/ww ?/ww ?/ww :/wm -/wp )/wky 
+
+
+>/wm 2/m ./wj Blauser/n wins/v the/rzt starting/v shortstop/n job/n outright/a by/p the/rzt end/n 
+>/wm of/p May/vyou ./wj Bream/n goes/v on/p the/rzt DL/nt ,/wd and/c Klesko/n goes/v on/p a/rzv nice/a hitting/vi 
+>/wm honeymoon/n (/wkz a/rzv la/u Gregg_Jefferies/nr in/p 1988/m )/wky platooning[platoon]/n with/p Hunter/n ./wj 
+>/wm Mitchell/nz wins/v the/rzt center/n field/n job/n a/rzv bit/n later/a (/wkz All/a -/wp Star/nr1 break/v ?/ww )/wky and/c 
+>/wm Nixon/nz stays/v on/p as/p a/rzv valuable/a pinch/n -/wp runner/a ./wj Lonnie/nr is/vshi released/vd unless/c 
+>/wm the/rzt Braves/nz find/v a/rzv taker/n in/p a/rzv trade/n ./wj 
+
+
+Right_on_Blauser/nt ./wj Wrong_on_Bream/nt and/c Mitchell/nz ./wj A/rzv bit/n early/a on/p 
+Lonnie/nr ,/wd as/p with/p Bielecki/n ./wj Didn't/v pick/v Sanders/n ./wj (/wkz Did/vyou anybody/r ?/ww :/wm -/wp )/wky 
+
+
+>/wm 3/m ./wj Managers/n to/pba be/vshi fired/vd this/r year/n (/wkz 1992/m )/wky in/p chronological/a order/n :/wm 
+>/wm Fregosi/n ,/wd Showalter/nr ,/wd Valentine/nz ,/wd Riddoch/n 
+
+
+Three/m of/p them/rzt went/v ,/wd right/a ?/ww Showalter/nr is/vshi still/d around/p (/wkz and/c likely/a to/pba 
+stick/n ,/wd it/rzt seems/v )/wky ./wj 
+-/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp 
+
+
+
+
+From/p mattel.Auto/n -/wp trol.COM/n !/wt mattel@auto/n -/wp trol.com/n Tue_Mar/ns 31/m 17/m :/wm 04/m :/wm 22/m 1992/m 
+>/wm 1/m )/wky Bonds/n gets/v traded/v from/p Bucs/n for/p some/rzv young/a talent/n ./wj 
+
+
+Nope/n !/wt They/rzt won/v the/rzt division/n ,/wd and/c so/cc kept/v him/rzt for/p a/rzv shot/n at/p the/rzt 
+playoffs[playoff]/a ./wj 
+
+
+>/wm 2/m )/wky Mets/n win/v division/n 
+
+
+:/wm -/wp )/wky Well/d ,/wd they/rzt didn't/v finish/n last/rzs ./wj 
+
+
+>/wm 3/m )/wky Atlanta/n repeats/vi in/p the/rzt West/nz 
+
+
+Got/v that/c one/m right/a ./wj 
+
+
+>/wm 4/m )/wky Yankees/nl surprise/n everyone/r ,/wd but/c finish/n second/m behind/p Toronto/nz ./wj 
+
+
+Nope/n ./wj 
+
+
+>/wm 5/m )/wky Dwight_Gooden/nr wins/v 20/m ,/wd but/c is/vshi surpassed[surpass]/a by/p Saberhagen/n who/ry wins/v 22/m ./wj 
+
+
+I/rzt guess/v this/r is/vshi why/ry you/rzt picked/v the/rzt Mets/n to/pba win/v ,/wd huh/vi ?/ww 
+
+
+>/wm 6/m )/wky Roger_Clemens/nr is/vshi injured/a early/a in/p the/rzt season/n ./wj 
+
+
+Tsk/n Tsk/n ./wj Not/d nice/a to/pba predict/v something/r like/p this/r ./wj 
+
+
+>/wm 7/m )/wky Strawberry/n fails/v to/pba hit/v even/d 20/m home/n runs/n and/c is/vshi often/d injured/a ./wj 
+>/wm 8/m )/wky Due/a to/pba 7/m ,/wd Dodgers/n drop/n out/pbei of/p race/n ./wj 
+
+
+You/rzt got/v that/c right/a !/wt 
+
+
+-/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp 
+
+
+And/c my/rr response../n ./wj 
+
+
+>/wm From/p tedward/n Tue_Mar/ns 31/m 17/m :/wm 57/m :/wm 42/m 1992/m 
+>/wm 
+>/wm Hmph/n !/wt Can/vyou tell/v you/rzt are/vshi a/rzv Mets/n fan/n !/wt Do/vyou you/rzt mind/n if/c I/rzt make/v some/rzv counter/n 
+>/wm predictions/vi against/p yours/rr ?/ww They/rzt follow/v :/wm 
+>/wm 2/m )/wky Mets/n come/v in/p third/m ,/wd behind/p Pittsburgh/n and/c Montreal/n ./wj 
+
+
+Okay/o ,/wd so/cc the/rzt Mets/n finished/vd fifth/n ./wj But/c I/rzt got/v the/rzt Pirates/n and/c Expos[expo]/a 
+right/a !/wt 
+
+
+>/wm 4/m )/wky The/rzt Yankees/nl offense/n and/c pitching/n flounders/n ,/wd dropping/v them/rzt to/pba fourth/m 
+>/wm place/v in/p the/rzt AL_East/nt ./wj Boston/ns wins/v 95/m games/n ,/wd the/rzt division/n ,/wd the/rzt pennant/n ,/wd 
+>/wm and/c the/rzt World_Series/nt ./wj 
+
+
+First/m half/n ?/ww Dead/a on/p !/wt Second/m half/n ?/ww Ummm.../n ./wj I'm/n a/rzv Sox/n fan/n ,/wd go/v easy/a 
+on/p me/rzv !/wt 
+
+
+>/wm 5/m )/wky Dwight_Gooden/nr rushes/v his/rr comeback/v ,/wd gets/v blown/vd out/pbei ,/wd and/c goes/v on/p the/rzt DL/nt from/p 
+>/wm May/vyou through/p mid/a -/wp July/t ./wj 
+>/wm Saberhagen/n runs/n a/rzv .500/m record/n ;/n WFAN/nt criticizes[criticize]/n the/rzt Mets/n for/p "/w giving/vi away/pbei 
+>/wm that/c great/a talent/n Jefferies/nr "/w ,/wd who/ry has/vyou a/rzv solid/a year/n in/p KC./n 
+
+
+So/cc I/rzt got/v my/rr predictions/vi for/p Gooden/nr and/c Saberhagen/n reversed/vd ./wj :/wm -/wp )/wky I/rzt 
+was/vshi at/p least/rzs */n close/d */n ,/wd and/c was/vshi right/a about/p Jefferies/nr ./wj (/wkz Though/c I/rzt don't/v 
+know/v ./wj HAS_WFAN/nt criticized/vd the/rzt Jefferies/nr trade/n ?/ww )/wky 
+
+
+>/wm 6/m )/wky Roger_Clemens/nr wins/v another/r CY/nt ,/wd as/p well/d as/p 20/m games/n ./wj 
+
+
+Close/d ./wj No/rzt cigar/n ./wj 
+
+
+-/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp 
+
+
+In/p article/n </n UdqcEAO00VpeII_lI1@andrew.cmu.edu/n >/wm ,/wd al1x/n +/wp @andrew.cmu.edu/n (/wkz Amit/n Likhyani/n )/wky writes/v :/wm 
+>/wm Excerpts/n from/p netnews.rec.sport.baseball/n :/wm 1/m -/wp Apr/n -/wp 92/m Re/p :/wm NL_East/nt (/wkz Smiley/n 
+>/wm trade's./n ./wj CAVGEOE@YaleVM.YCC.Yale/n ./wj (/wkz 591/m )/wky 
+>/wm 
+>/wm >/wm OPS/n Projected/a for/p 1992/m :/wm 
+>/wm >/wm HoJo/n .792/m 
+>/wm 
+>/wm I/rzt will/vyou streak/n naked/a down/pbei Forbes/nz avenue/ns if/c HoJo/n does/vyou not/d muster/v more/cc than/p 
+>/wm a/rzv .792/m OPS/n ./wj Something/r is/vshi wrong/a with/p that/c projection/n ./wj 
+
+
+Some/rzv predictions/vi need/n no/rzt introduction/n !/wt 
+
+
+-/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp 
+
+
+>/wm From/p navarra@casbah.acns.nwu.edu/n Mon/u Apr/n 13/m 02/m :/wm 09/m :/wm 15/m 1992/m 
+>/wm >/wm From/p tedward@cs.cornell.edu/n 
+>/wm >/wm Do/vyou you/rzt care/n to/pba put/v your/rr prediction/vd down/pbei for/p posterity/a ?/ww You/rzt predict/v 
+>/wm >/wm Mark_Grace/nr will/vyou get/v 90/m +/wp RBIs/n ./wj I/rzt say/v you/rzt are/vshi out/pbei of/p your/rr mind/n ./wj That/c 
+>/wm >/wm is/vshi almost/d impossible/a for/p a/rzv 10/m -/wp HR/nt type/a guy/n batting/n behind/p Dawson/nr ./wj (/wkz Who/ry 
+>/wm >/wm kills/n most/cc of/p the/rzt rallies/n he/rzt doesn't/n finish/n ./wj )/wky 
+>/wm 
+>/wm Why/ry do/vyou you/rzt say/v that/c ?/ww Mark/n has/vyou driven/vd in/p 82/m (/wkz '90/m )/wky and/c 79/m (/wkz '89/m )/wky ./wj 
+>/wm Last/rzs year/n Mark/n was/vshi batting/n second/m primarily/d and/c it/rzt was/vshi his/rr worse/a year/n 
+>/wm average/a wise/a ./wj Since/p he/rzt is/vshi batting/n either/d 3rd/ns or/c 5th/ns this/r year/n I/rzt predict/v 
+>/wm he/rzt will/vyou be/vshi back/pbei up/pbei to/pba his/rr previous/a standards/n (/wkz I/rzt think/v he/rzt will/vyou be/vshi better/a )/wky 
+>/wm 90/m rbi/n 's/c is/vshi not/d that/c much/d of/p a/rzv stretch/n ./wj 
+
+
+Sometimes/r us/rzv statheads/n get/v lucky/a ./wj Grace/n */n didn't/v */n hit/v behind/p Dawson/nr 
+the/rzt entire/a season/n ,/wd but/c he/rzt also/d finished/vd with/p only/d 79/m RBIs/n ./wj 
+
+
+-/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp 
+
+
+>/wm From/p nss3@midway.uchicago.edu/n Tue/n May/vyou 19/m 22/m :/wm 09/m :/wm 06/m 1992/m 
+>/wm 
+>/wm The/rzt most/cc ballsy/n prediction/vd ever/d :/wm 
+>/wm 
+>/wm Mark_McGwire/nr will/vyou hit/v 61/m or/c more/cc HRs/n this/r year./n 
+
+
+Nope/n ./wj He/rzt slowed/v down/pbei ,/wd and/c the/rzt injury/n finished/vd him/rzt off/p ./wj Didn't/v 
+even/d reach/v 50/m ./wj But/c a/rzv ballsy/n prediction/vd ,/wd nonetheless/d ./wj 
+
+
+-/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp 
+
+
+From/p ECAXRON@MARS.LERC.NASA.GOV/n Thu/n May/vyou 21/m 16/m :/wm 42/m :/wm 21/m 1992/m 
+>/wm (/wkz 1/m )/wky Baltimore/n will/vyou not/d fade/v ./wj They/rzt will/vyou not/d win/v the/rzt division/n this/r year/n ,/wd 
+>/wm but/c they/rzt will/vyou finish/n within/p five/m games/n ./wj I/rzt find/v the/rzt prospect/n of/p two/m 
+>/wm Orioles/n winning/a 20/m each/r easier/a to/pba comprehend/n than/p that/c of/p two/m Sox/n ./wj 
+>/wm No/rzt offense/n -/wp I/rzt think/v their/rr pitching/n is/vshi about/p as/p good/a as/p the/rzt division/n 
+>/wm has/vyou to/pba offer/v ./wj 
+
+
+The/rzt Orioles/n finished/vd seven/m games/n out/pbei ./wj None/d of/p them/rzt won/v 20/m (/wkz though/c 
+Mussina/n might/vyou have/vyou had/vyou a/rzv chance/n ,/wd with/p better/a relief/n and/c more/cc starts/v )/wky ./wj 
+
+
+>/wm (/wkz 2/m )/wky Nobody/r else/d in/p the/rzt division/n is/vshi worth/p a/rzv darn/d ./wj They/rzt all/a finish/n a/rzv minimum/n 
+>/wm of/p fifteen/m games/n out/pbei ,/wd the/rzt Tribe/n 30/m ./wj That's/v another/r reason/n to/pba watch/v 
+>/wm Baltimore/n this/r year/n and/c next/rzs -/wp they/rzt won't/v waste/n many/rzs of/p those/r games/n 
+>/wm against/p the/rzt rest/n of/p the/rzt division/n ./wj 
+
+
+Except/c for/p the/rzt Brewers/n (/wkz who/ry you/rzt probably/d forgot/v )/wky ,/wd you/rzt were/vshi right/a !/wt The/rzt 
+rest/n of/p the/rzt division/n was/vshi thoroughly/d mediocre/a ./wj The/rzt Yankees/nl and/c Indians/nl 
+"/w led/v "/w with/p 76/m wins/v ,/wd the/rzt Red_Sox/nt "/w trailed/v "/w with/p 73/m wins/v ./wj None/d were/vshi 
+horrible/a ,/wd but/c four/m were/vshi five/m or/c more/cc games/n below/p .500/m ./wj 
+
+
+-/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp 
+From/p :/wm djohnson@cayley.uwaterloo.ca/n (/wkz David_Johnson/nr )/wky 
+Date/n :/wm Thu/n ,/wd 6/m Aug/n 1992/m 15/m :/wm 47/m :/wm 30/m GMT/nt 
+
+
+>/wm Right/a ./wj That/c was/vshi me/rzv ./wj I/rzt never/d said/v the/rzt jay[jay]/nz were/vshi a/rzv cinch/n to/pba clinch/v it/rzt 
+>/wm but/c I/rzt said/v that/c Milwaukee/n will/vyou be/vshi more/cc of/p a/rzv threat/n than/p Baltimore/n ./wj I/rzt 
+>/wm do/vyou think/v that/c Toronto/nz should/vyou win/v it/rzt but/c after/p '87/m I/rzt don't/v consider/v 
+>/wm anything/r a/rzv cinch/n unless/c you/rzt have/vyou something/r like/p a/rzv 4/m game/n lead/n with/p 3/m 
+>/wm games/n to/pba go/v ./wj I/rzt do/vyou think/v that/c the/rzt jay[jay]/nz have/vyou the/rzt best/a talented/n team/n in/p 
+>/wm the/rzt AL_East/nt and/c if/c we/rzt had/vyou a/rzv good/a ,/wd or/c even/d average/a manager/n we/rzt might/vyou 
+>/wm have/vyou a/rzv bigger/a lead/n right/a now/d ./wj I/rzt also/d think/v that/c the/rzt Orioles/n will/vyou not/d 
+>/wm play/n much/d better/a than/p .500/m baseball/n for/p the/rzt rest/n of/p the/rzt season/n ./wj 
+
+
+You/rzt win/v !/wt 
+
+
+-/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp 
+
+
+From/p king@cogsci.UCSD.EDU/n Thu/n Nov/n 14/m 14/m :/wm 33/m :/wm 45/m 1991/m 
+>/wm 
+>/wm In/p article/n </n 1991Nov13.060413.9187@cs.cornell.edu/n >/wm you/rzt write/v :/wm 
+>/wm >/wm 7/m ./wj Indians/nl the/rzt first/m and/c only/d 0/m -/wp 162/m season/n ever/d !/wt :/wm -/wp )/wky 
+>/wm 
+>/wm Prediction/vd :/wm The/rzt Cleveland/nz indians/nl will/vyou win/v 70/m or/c more/cc games/n next/rzs year./n 
+
+
+You/rzt were/vshi right/a !/wt 
+
+
+-/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp 
+
+
+From/p stvjas@meteor.wisc.edu/n Fri/n Sep/n 13/m 01/m :/wm 15/m :/wm 52/m 1991/m 
+>/wm 
+>/wm 1/m ./wj Jose_Rijo/nr will/vyou win/v the/rzt 1992/m Cy_Young/nr award/n IF/c he/rzt is/vshi healthy/a enough/a to/pba go/v 
+>/wm at/p least/rzs 210/m IP/v ./wj (/wkz Who/ry would/vyou have/vyou thought/v he/rzt would/vyou try/v to/pba steal/v a/rzv base/n ?/ww Why/ry 
+>/wm risk/n such/p an/rzv injury/n ?/ww ?/ww ?/ww )/wky 
+
+
+He/rzt had/vyou 211/m IP/v ,/wd but/c didn't/v win/v the/rzt Cy_Young/nr ./wj Maddux/nr surprised/n all/a ./wj 
+
+
+>/wm 2/m ./wj The/rzt Orioles/n will/vyou win/v 88/m +/wp games/n in/p at/p least/rzs 3/m of/p the/rzt next/rzs 6/m years/n 
+>/wm (/wkz probably/d the/rzt last/rzs 3/m )/wky and/c their/rr pitching/n staff/n will/vyou have/vyou a/rzv team/n ERA/n 
+>/wm among/p the/rzt best/a 4/m in/p the/rzt AL/nz in/p at/p least/rzs 3/m of/p the/rzt next/rzs 6/m years/n (/wkz but/c not/d 
+>/wm necessarily/d all/a the/rzt same/rzs years/n as/p they/rzt win/v 88/m +/wp )/wky ./wj This/r one/m will/vyou take/v a/rzv 
+>/wm long/a time/n to/pba verify/vd ./wj 
+
+
+I/rzt don't/v think/v I/rzt want/v to/pba wait/v that/c long/a ./wj But/c they/rzt won/v 89/m games/n last/rzs 
+year/n ,/wd and/c they/rzt were/vshi fifth/n in/p the/rzt league/n in/p ERA/n ./wj Not/d a/rzv bad/a start/n ./wj 
+
+
+>/wm 4/m ./wj Ben_McDonald/nr will/vyou not/d challenge/n for/p an/rzv ERA/n title/n in/p the/rzt next/rzs 2/m 
+>/wm years/n ,/wd nor/c will/vyou he/rzt have/vyou 18/m +/wp victories/n either/d year./n (/wkz By/p challenge/n ,/wd I/rzt 
+>/wm mean/v FINISH/n among/p the/rzt leaders/n ;/n being/vshi among/p the/rzt leaders/n BEFORE/p the/rzt 
+>/wm season/n is/vshi done/vd doesn't/n count/n ./wj )/wky He/rzt will/vyou probably/d never/d be/vshi the/rzt pitcher/n 
+>/wm he/rzt was/vshi hyped/n to/pba be/vshi ,/wd but/c is/vshi still/d a/rzv decent/a starter/n to/pba have/vyou ./wj 
+
+
+Looks/v like/p it./rzt He/rzt wasn't/v bad/a last/rzs year/n ,/wd just/d too/cc consistent/a to/pba be/vshi an/rzv 
+ace/n ./wj So/cc far/d this/r year/n looks/v like/p more/cc of/p the/rzt same/rzs ./wj 
+
+
+>/wm 5/m ./wj The/rzt Phillies/n will/vyou give/v up/pbei */n many/rzs */n fewer/rzs walks/n if/c //wp when/ry they/rzt get/v rid/vd of/p their/rr 
+>/wm bullpen/n coach/n (/wkz Ryan/nz )/wky ./wj (/wkz I/rzt am/vshi not/d predicting/vi when/ry or/c whether/c they/rzt will/vyou get/v rid/vd 
+>/wm of/p him/rzt ,/wd and/c you/rzt will/vyou have/vyou to/pba give/v the/rzt team/n a/rzv little/a bit/n of/p time/n to/pba adjust/v 
+>/wm before/p seeing/vi the/rzt radical/a change/n ./wj They/rzt would/vyou have/vyou a/rzv fine/a pitching/n staff/n if/c 
+>/wm they/rzt would/vyou just/d steal/v Ray_Miller/nr away/pbei from/p Pittsburg/n ./wj The/rzt White_Sox/nr seem/v to/pba 
+>/wm have/vyou the/rzt same/rzs problem/n ,/wd but/c not/d as/p bad/a ./wj )/wky 
+
+
+I/rzt honestly/d can't/v say/v ./wj Did/vyou they/rzt get/v rid/vd of/p him/rzt ?/ww Their/rr BB/nt totals/n were/vshi 
+down/pbei last/rzs year./n 
+
+
+>/wm 7/m ./wj Ricky_Jordan/nr will/vyou have/vyou 90/m +/wp rbi/n IF/c he/rzt starts/v 145/m +/wp games/n ,/wd hitting/vi in/p 
+>/wm the/rzt 3/m or/c 4/m or/c 5/m spot/n in/p any/rzv lineup/n or/c the/rzt 6/m spot/n in/p a/rzv lineup/n with/p very/cc 
+>/wm good/a OBP/nt in/p the/rzt 4,5/m hitters/n ./wj This/r applies/v for/p each/r of/p the/rzt next/rzs 3/m 
+>/wm years/n ./wj 
+
+
+I/rzt just/d don't/v think/v he/rzt 's/c that/c good.../n ./wj 
+
+
+>/wm 12/m ./wj Billy_Ripken/nr will/vyou */n never/d */n again/d hit/v over/p .240/m with/p 400/m +/wp AB/a ./wj 
+
+
+:/wm -/wp )/wky So/cc far/d ,/wd so/cc good/a ./wj I'm/n */n definitely/d */n not/d waiting/vi to/pba check/n this/r one/m ./wj 
+
+
+-/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp 
+
+
+From/p panix/n !/wt spira@cmcl2.NYU.EDU/n Fri/n Sep/n 13/m 12/m :/wm 38/m :/wm 08/m 1991/m 
+>/wm 
+>/wm No/rzt matter/n what/rzs Lou_Gorman/nr and/c his/rr scouts/a say/v ,/wd Paul_Quantrill/nr will/vyou 
+>/wm never/d ever/d be/vshi an/rzv adequate/a major/a league/n starter/n ./wj Never/d !/wt (/wkz I/rzt have/vyou never/d 
+>/wm seen/vd a/rzv starting/v pitcher/n who/ry can/vyou only/d strike/n out/pbei 3/m per/p 9/m innings[inning]/n at/p AAA/nt 
+>/wm be/vshi successful/a in/p the/rzt majors/n ./wj )/wky 
+
+
+Current/a plans/n seem/v to/pba be/vshi to/pba use/n Quantrill/n in/p long/a relief/n ./wj He/rzt has/vyou a/rzv 
+rubber/n arm/n and/c unusual/a delivery/n ./wj He/rzt might/vyou be/vshi decent/a in/p that/c role/n ./wj 
+
+
+-/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp 
+
+
+From/p lyle@ecn.purdue.edu/n Sat/v Sep/n 14/m 01/m :/wm 51/m :/wm 28/m 1991/m 
+>/wm M.V.P/nt ./wj -/wp `/n 92/m 
+>/wm A.L/nt ./wj -/wp Frank_Thomas/nr 
+>/wm N.L/nt ./wj -/wp Hal_Morris/nr 
+>/wm 
+>/wm Division_Winners/ns -/wp `/n 92/m 
+>/wm A.L/nt ./wj East/nz -/wp Baltimore/n Orioles/n 
+>/wm A.L/nt ./wj West/nz -/wp Chicago_White_Sox/nr 
+>/wm A.L/nt ./wj Pennant/n -/wp Chicago_White_Sox/nr 
+>/wm N.L/nt ./wj East/nz -/wp St._Louis_Cardinals/nr 
+>/wm N.L/nt ./wj West/nz -/wp Cincinatti_Reds/ns 
+>/wm N.L/nt ./wj Pennant/n -/wp Cincinatti_Reds/ns 
+>/wm W.S/nt ./wj Champion/n -/wp Cincinatti_Reds/ns 
+
+
+Wrong/a on/p all/a of/p the/rzt above./n (/wkz Hal_Morris/nr ?/ww ?/ww ?/ww ?/ww )/wky 
+
+
+-/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp 
+
+
+And/c my/rr favorites/a !/wt 
+
+
+From/p tedward/n Sun_Oct/nr 20/m 23/m :/wm 52/m :/wm 57/m 1991/m 
+>/wm 
+>/wm Belle/n will/vyou not/d walk/n as/p many/rzs as/p 50/m times/n in/p 1992/m ./wj 
+>/wm Belle/n will/vyou hit/v more/cc HR/nt than/p he/rzt has/vyou walks/n in/p 1992/m ./wj 
+
+
+Belle/n hit/v 34/m HR/nt last/rzs year/n ,/wd walking/vi 52/m times/n (/wkz but/c five/m of/p those/r were/vshi 
+intentional/n !/wt )/wky ./wj Okay/o ,/wd so/cc I/rzt exaggerate/v ./wj But/c I/rzt */n might/vyou */n have/vyou been/vshi right/a ./wj 
+
+
+-/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp 
+
+
+From/p trn@strdev.jhuapl.edu/n Tue_Mar/ns 31/m 15/m :/wm 25/m :/wm 28/m 1992/m 
+>/wm 
+>/wm >/wm Are/vshi the/rzt O/nz 's/c going/vi to/pba sign/n Cal/n ,/wd of/p is/vshi Eli/n 's/c wallet/n welded/vd shut/vd (/wkz outgoing/n 
+>/wm >/wm money/n only/d ,/wd wide/a open/a for/p incoming/a cash/n 8/m -/wp )/wky )/wky 
+>/wm 
+>/wm My/rr prediction/vd (/wkz which/rzs you/rzt may/vyou make/v note/n of/p ,/wd Valentine/nz :/wm -/wp )/wky )/wky ,/wd is/vshi that/c Eli_Jacobs/nr 
+>/wm will/vyou defer/a any/rzv serious/a negotiations/n on/p Cal/n Ripken/n 's/c contract/n until/p the/rzt '92/m 
+>/wm season/n is/vshi over/p ./wj Eli/n will/vyou give/v Cal/n every/rzv opportunity/n to/pba have/vyou his/rr stats/n tumble/n 
+>/wm a/rzv bit/n from/p last/rzs year/n 's/c pace/n before/p coming/vi forth/pbei with/p an/rzv offer/v ./wj 
+>/wm 
+>/wm (/wkz Despite/p claims/n that/c OP@CY/nt was/vshi designed/vd to/pba Cal/n 's/c strength/n ,/wd my/rr feeling/n is/vshi that/c 
+>/wm the/rzt 411/m foot/n left/vd -/wp center/n "/w canyon/n "/w will/vyou cut/vd down/pbei on/p Cal/n 's/c power/n stats/n ./wj )/wky 
+>/wm 
+>/wm After/p all/a ,/wd it's/v hard/a to/pba credibly[credible]/a to/pba offer/v $/a 3/m -/wp 4/m million/m //wp year/n to/pba an/rzv 
+>/wm All/a -/wp Star/nr1 game/n MVP/nt //wp AL_MVP/nt //wp Gold_Glove/nr shortstop/n //wp baseball/n deity/n :/wm -/wp )/wky -/wp -/wp 
+>/wm but/c it'd/a be/vshi a/rzv lot/n easier/a to/pba offer/v a/rzv similar/a salary/n to/pba an/rzv "/w obviously/d 
+>/wm declining/v but/c above/p average/a "/w shortstop/n who/ry had/vyou a/rzv career/n year/n one/m full/a 
+>/wm season/n ago/d ./wj 
+>/wm 
+>/wm Of/p course/n ,/wd if/c Cal/n */n does/vyou */n match/n his/rr '91/m numbers/n ,/wd then/d Eli/n is/vshi going/vi to/pba be/vshi faced/vd 
+>/wm with/p a/rzv rather/d huge/a (/wkz and/c expensive/a )/wky problem../n ./wj 
+
+
+How/ry much/d did/vyou Cal/n sign/n for/p ?/ww When/ry did/vyou he/rzt sign/n ?/ww If/c I/rzt remember/v 
+correctly/d ,/wd he/rzt got/v a/rzv rather/d hefty/vf contract/n despite/p a/rzv weak/n season/n ./wj 
+
+
+-/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp 
+
+
+And/c finally.../n ./wj 
+
+
+From/p jpalmer@uwovax.uwo.ca/n Thu/n Sep/n 12/m 10/m :/wm 35/m :/wm 58/m 1991/m 
+>/wm 
+>/wm Generally/d ,/wd because/c of/p expansion/n in/p 1993/m ,/wd there/rzs will/vyou be/vshi a/rzv lot/n of/p 
+>/wm mediocre/a talent/n hanging/vi around/p ./wj Much/d of/p it/rzt will/vyou not/d make/v it/rzt ,/wd as/p the/rzt 
+>/wm expansion/n teams/n look/v for/p younger/a talent/n around/p which/rzs to/pba build/v their/rr 
+>/wm teams/n ./wj My/rr specific/a predictions/vi :/wm 
+>/wm 
+>/wm As/p of/p April/t 7/m ,/wd 1993/m :/wm 
+>/wm 
+>/wm Jim_Acker/nr and/c Cory_Snider/nr will/vyou be/vshi selling/n aluminum/a siding/n ./wj 
+
+
+Snyder/nr is/vshi still/d in/p SF/ns ./wj Acker/nr is/vshi gone/vd ?/ww ?/ww 
+
+
+>/wm Neither/d Charlie_Kerfeld/nr nor/c Vance_Lovelace/nr (/wkz presently/d in/p Tiger_AA/nt but/c 
+>/wm formerly/vd big/a leaguers/n )/wky will/vyou be/vshi playing/vi professional/a ball/n ./wj 
+
+
+They/rzt aren't/v in/p the/rzt majors/n ./wj 
+
+
+>/wm Nor/c will/vyou Dave_Rozema/nr (/wkz who/ry says/v he/rzt 's/c keeping/vi in/p shape/n with/p a/rzv hope/n for/p 
+>/wm another/r shot/n with/p expansion/n )/wky ./wj 
+
+
+Never/d heard/v of/p him/rzt ./wj 
+
+
+>/wm Shawn_Hare/nr and/c Jody_Hurst/nr will/vyou be/vshi in/p the/rzt major/a leagues/n ./wj 
+>/wm (/wkz They/rzt are/vshi outfielders[outfielder]/n in/p the/rzt Tiger/n minor/a league/n system/n )/wky 
+
+
+I/rzt don't/v */n think/v */n they/rzt are/vshi in/p the/rzt majors/n ./wj 
+
+
+>/wm Ron_Hassey/nr will/vyou be/vshi a/rzv minor/a league/n manager/n with/p the/rzt Yankees/nl ./wj 
+
+
+Dunno/n what/rzs happened/v to/pba him/rzt ./wj 
+
+
+>/wm It/rzt will/vyou be/vshi bye/d -/wp bye/d for/p Balboni/n ./wj 
+
+
+If/c he/rzt 's/c still/d around/p ,/wd he/rzt 's/c stuck/n in/p the/rzt minors[minor]/a ./wj 
+
+
+>/wm Bo_Jackson/nr will/vyou _not_/n be/vshi a/rzv starter/n ./wj 
+
+
+Hm/n ./wj With/p Raines/nr out/pbei ,/wd Bo/nr looks/v to/pba get/v a/rzv lot/n of/p PT/n ./wj 
+
+
+>/wm Gary_Huckaby/nr will/vyou have/vyou moved/v to/pba Alaska/ns permanently/d (/wkz they're/n on/p the/rzt 
+>/wm net/n !/wt )/wky ,/wd 
+
+
+:/wm -/wp )/wky 
+
+
+>/wm and/c Dave_Kirsch/nr will/vyou return/n to/pba Canada/ns to/pba live/v ./wj 
+
+
+Hm/n ./wj 
+
+
+-/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp -/wp 
+
+
+Thanks/n for/p listening/vi !/wt 
+-/wp Valentine/nz 

@@ -1,0 +1,52 @@
+From/p :/wm whitty@cv.hp.com/n (/wkz Joe_Whitty/nr )/wky 
+Subject/n :/wm Re/p :/wm A/rzv rooky/n question/n about/p the/rzt ERA/n 
+
+
+Thomas_Theiner/nr (/wkz thein@damabus.informatik.rwth/n -/wp aachen.de/n )/wky wrote/v :/wm 
+:/wm Hi/o there/rzs ,/wd 
+:/wm 
+:/wm I'm/n german/an and/c I/rzt have/vyou been/vshi into/p this/r MLB/nt stuff/n since/p almost/d one/m year/n now/d ./wj 
+:/wm There/rzs are/vshi many/rzs problems/n occuring/n for/p me/rzv ./wj One/m of/p them/rzt is/vshi the/rzt ERA/n statistic/n for/p 
+:/wm pitchers/n ./wj What/rzs does/vyou it/rzt say/v ?/ww ?/ww 
+
+
+ERA/n indicates/v the/rzt average/a number/n of/p earned/v runs/n attributed/vd to/pba a/rzv pitcher/n per/p 
+nine/m inning/n game/n ./wj Thus/d ,/wd if/c a/rzv pitcher/n pitched/v 3/m innings[inning]/n and/c gave/v up/pbei 1/m earned/v 
+run/v ,/wd his/rr 9/m inning/n equivelent/n perfomance/n would/vyou be/vshi 3/m earned/v runs/n ,/wd thus/d his/rr ERA/n 
+is/vshi 3.00/m ./wj To/pba compute/v the/rzt ERA/n you/rzt simply/d take/v the/rzt number/n of/p earned/v runs/n divided/vd 
+by/p the/rzt innings[inning]/n pitched/v and/c then/d multiple/a the/rzt result/n by/p 9/m ./wj 
+
+
+ERA/n =/n (/wkz ER/u //wp IP/v )/wky */n 9/m 
+
+
+An/rzv earned/v run/v is/vshi run/v that/c is/vshi given/vd up/pbei by/p the/rzt pitcher/n that/c is/vshi not/d attributed/vd 
+to/pba a/rzv fielding[field]/n error/n ./wj More/cc specifically/d ,/wd if/c an/rzv error/n occurs/v that/c represented/vd 
+the/rzt third/m out/pbei ,/wd all/a runs/n scored/v after/p the/rzt error/n are/vshi considered/vd UNEARNED/a runs/n ./wj 
+Earned/v runs/n are/vshi also/d runs/n scored/v as/p a/rzv result/n of/p players/n who/ry were/vshi left/vd on/p base/n 
+when/ry the/rzt pitcher/n exited[exit]/a the/rzt game/n ./wj Here/d are/vshi some/rzv examples/n :/wm 
+
+
+If/c there/rzs are/vshi two/m out[out]/pbei in/p an/rzv inning/n and/c there/rzs are/vshi men/n on/p base/n ./wj If/c 
+an/rzv error/n occurs/v that/c represents/v the/rzt third/m out/pbei ,/wd all/a of/p the/rzt runs/n after/p 
+this/r error/n and/c NOT/d counted/v as/p earned/v runs/n ./wj 
+
+
+If/c a/rzv pitcher/n issues/n some/rzv base/n on/p balls/n (/wkz walks/n )/wky ,/wd and/c leaves/n the/rzt game/n 
+before/p the/rzt inning/n is/vshi completed/vd ,/wd he/rzt is/vshi responsible/a for/p the/rzt people/n who/ry 
+were/vshi left/vd on/p base/n ./wj If/c the/rzt those/r runners/n who/ry were/vshi left/vd on/p base/n score/n ,/wd 
+and/c the/rzt score/n was/vshi not/d a/rzv result/n of/p an/rzv error/n ,/wd those/r eraned/n runs/n are/vshi 
+attributed/vd to/pba the/rzt pitcher/n who/ry left/vd the/rzt game/n ./wj 
+
+
+I/rzt hope/n this/r explains/v things/n for/p you/rzt ./wj 
+
+
+Joe/nz 
+
+
+
+
+
+
+
