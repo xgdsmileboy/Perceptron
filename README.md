@@ -28,24 +28,13 @@
 
   There are five folders s1-s5, which are the original file that had been classified and placed into different folders; While running the project, there will be three new folders created,predata1,keyword and weight.In the predata1,there are five folders just like the original five folders s1-s5,which are the pre-processed datasets.The tree graphic of the file system as bellow:.
 
-├── A1.3\ Algorithm.pdf			---------specification of perceptron
-
-├── Data						---------words dictionary
-
-├── Perceptron\ Report.pdf		---------project report
-
-├── data1						---------original datasets
-
-├── keyword					-----------the key word selected from the training datasets
-
-├── lib							-----------lib library
-
-├── predata1					-----------pre-processed data set from original datasets
-
-├── src						------------source code
-
-├── weight						------------weights records while training
-
-└── win32						------------dll,used for pre-process the datasets
-
-​								------------from Pro. Huaping Zhang of Beijing University
+* A1.3 Algorithm.pdf : specification of perceptron
+* Data : words dictionary
+* Perceptron Report.pdf : project report
+* data1 : original datasets
+* keyword : the key word selected from the training datasets
+* lib : lib library
+* predata1 : pre-processed data set from original datasets
+* src : source code
+* weight : weights records while training
+* win32 : dll,used for pre-process the datasets, from Pro. Huaping Zhang of Beijing University
